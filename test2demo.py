@@ -1,7 +1,3 @@
-# Nanme: h b k d shamal
-# Index No: 19221
-# Degree: BSc (Hons) Software Engineering
-
 import cv2
 import numpy as np
 
